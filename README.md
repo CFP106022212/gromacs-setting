@@ -10,7 +10,7 @@ gmx mdrun -s eql.tpr -deffnm eql -v
 gmx grompp -f NPT.mdp -o eql2.tpr -pp eql2.top -po eql2.mdp -c eql.gro -maxwarn 2<br>
 gmx mdrun -s eql2.tpr -deffnm eql2 -v
 ### Production
-gmx grompp -f file/prd.mdp -o prd.tpr -pp prd.top -po prd.mdp -c eql2.gro -maxwarn 2<br>
+gmx grompp -f prd.mdp -o prd.tpr -pp prd.top -po prd.mdp -c eql2.gro -maxwarn 2<br>
 gmx mdrun -s prd.tpr -deffnm prd -v<br>
 
 ---

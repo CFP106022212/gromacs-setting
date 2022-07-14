@@ -15,4 +15,4 @@ gmx mdrun -s prd.tpr -deffnm prd -v<br>
 
 ---
 ## 其他範例
-可搭配[此網站教學](https://gaseri.org/en/tutorials/gromacs/1-tip4pew-water/#topology-file)進行練習
+可搭配[網站教學1](https://gaseri.org/en/tutorials/gromacs/1-tip4pew-water/#topology-file)以及[網站教學2](http://dospt.org/index.php/Tutorial_2:_entropy_of_mixing_of_methanol%2Bwater)進行練習

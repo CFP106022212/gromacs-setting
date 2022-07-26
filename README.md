@@ -16,3 +16,11 @@ gmx mdrun -s prd.tpr -deffnm prd -v<br>
 ---
 ## 其他範例
 可搭配[網站教學1](https://gaseri.org/en/tutorials/gromacs/1-tip4pew-water/#topology-file)以及[網站教學2](http://dospt.org/index.php/Tutorial_2:_entropy_of_mixing_of_methanol%2Bwater)進行練習
+
+---
+## 實用網址
+* [Gromacs安裝教學](https://zhuanlan.zhihu.com/p/51188872)
+* [Gromacs英文手冊](https://manual.gromacs.org/current/reference-manual/index.html)
+* [Gromacs中文手冊](https://jerkwin.github.io/9999/12/31/GROMACS%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C/)
+* [OPLS/AA 資料庫](http://zarbi.chem.yale.edu/ligpargen/)
+* [GROMOS96 資料庫](https://atb.uq.edu.au/index.py)

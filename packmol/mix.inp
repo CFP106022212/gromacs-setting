@@ -1,0 +1,11 @@
+tolerance 2.0
+add_box_sides 1.2
+output mix.pdb
+structure oleic.pdb
+  number 100
+  inside box 0. 0. 0. 50. 50. 50.
+end structure
+structure ETH.pdb
+  number 100
+  inside box 0. 0. 0. 50. 50. 50.
+end structure

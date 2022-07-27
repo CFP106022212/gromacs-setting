@@ -24,4 +24,4 @@ gmx mdrun -s prd.tpr -deffnm prd -v<br>
 * [Gromacs中文手冊](https://jerkwin.github.io/9999/12/31/GROMACS%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C/)
 * OPLS/AA 資料庫  [LigParGen](http://zarbi.chem.yale.edu/ligpargen/)
 * GROMOS96 資料庫 [Automated Topology Builder](https://atb.uq.edu.au/index.py)
-* [TRAPPE/UA 力場](http://trappe.oit.umn.edu/)
+* TRAPPE/UA 資料庫 [The Siepmann Group](http://trappe.oit.umn.edu/)

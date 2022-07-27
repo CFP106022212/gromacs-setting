@@ -19,6 +19,8 @@ gmx mdrun -s prd.tpr -deffnm prd -v<br>
 
 ---
 ## 實用網址
+* [Gromacs官網](https://www.gromacs.org/)
+* [vmd    官網](https://www.ks.uiuc.edu/Research/vmd/)
 * [Gromacs安裝教學](https://zhuanlan.zhihu.com/p/51188872)
 * [Gromacs英文手冊](https://manual.gromacs.org/current/reference-manual/index.html)
 * [Gromacs中文手冊](https://jerkwin.github.io/9999/12/31/GROMACS%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C/)

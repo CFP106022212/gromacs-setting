@@ -9,3 +9,5 @@
 * 編輯inp檔
 * 指定粒子數目及系統大小(單位為埃)
 * ``packmol < mix.inp``
+## 其他教學範例
+* [分子動力學初始結構構建程序Packmol的使用](http://sobereva.com/473)

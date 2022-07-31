@@ -27,3 +27,4 @@ gmx mdrun -s prd.tpr -deffnm prd -v<br>
 * OPLS/AA 資料庫  [LigParGen](http://zarbi.chem.yale.edu/ligpargen/)
 * GROMOS96 資料庫 [Automated Topology Builder](https://atb.uq.edu.au/index.py)
 * TRAPPE/UA 資料庫 [The Siepmann Group](http://trappe.oit.umn.edu/)
+* [系統平衡判斷](http://sobereva.com/627)
